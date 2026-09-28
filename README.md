@@ -1,1 +1,7 @@
-# CO2301_Games-Development-1_Assignment_2
+# CO2301 Games Development 1 - Assignment 2
+
+University of Lancashire Coursework
+
+Module: CO2301 Games Development 1
+
+Grade Achieved: 87%
